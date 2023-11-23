@@ -8,5 +8,5 @@ In my spare time, I enjoy learning new technologies, game development and low le
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marttop&layout=compact&theme=prussian&count_private=true)]
-[![Stats Github](https://github-readme-stats.vercel.app/api?username=marttop&show_icons=true&theme=prussian&count_private=true)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marttop&layout=compact&theme=prussian&count_private=true)
+![Stats Github](https://github-readme-stats.vercel.app/api?username=marttop&show_icons=true&theme=prussian&count_private=true)
