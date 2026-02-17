@@ -1,12 +1,48 @@
-### Hi there 👋
+# 👋 Hi, I'm Márton
 
-I'm a French/Hungarian Back-end C/C++ software engineer, working at Mailspec.
+🇫🇷🇭🇺 French / Hungarian Back-End Software Engineer
+💼 Currently working at **MailSPEC**
 
-The programming languages that I have the most experience with are C, C++, Python, Javascript and Flutter with a focus on C++ and back-end libs like Beast, Asio.
+## About Me
 
-In my spare time, I enjoy learning new technologies, game development and low level programming.
+I'm specializing in **C and C++**, with a strong interest in:
+
+* High-performance systems
+* Low-level programming
+* Networked applications
+* Game Development (Unity and lower level libs)
+
+## Tech Stack
+
+**Languages**
+
+* C
+* C++
+* Rust
+* C#
+* Dart / Flutter
+* Python
+* JavaScript
 
 
+## Professional Experience
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marttop&layout=compact&theme=prussian&count_private=true)
-![Stats Github](https://github-readme-stats.vercel.app/api?username=marttop&show_icons=true&theme=prussian&count_private=true)
+Most of my daily engineering work happens in private repositories  
+within enterprise environments (MailSPEC, TrueFalse Studios).
+
+Focus areas:
+- MailSPEC
+  - Backend C/C++ services
+  - High-performance networking
+  - Asio / Beast
+  - Production systems architecture
+ 
+- TrueFalse Studios
+  - Unity Game Dev & Networking
+
+## Useless Stats to Show Off
+
+<p align="center">
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=marttop&theme=github_dark" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=marttop&theme=github_dark" />
+</p>
